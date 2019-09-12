@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome! My Name is Catherine Olejarczyk
+title: Catherine Olejarczyk
 permalink: /
 section: home
 intro_paragraph: >-
