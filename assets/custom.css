@@ -1,6 +1,6 @@
 
 header {
-  background-color: #fad2e1;
-  /*add header image*/
+ /*add header image*/
   backgroud-image: url("headerImg.jpg");
+  background-color: #fad2e1;
 }
