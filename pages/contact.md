@@ -1,15 +1,12 @@
 ---
 layout: contact
-title: Contact
+title: Let's Get in Touch!
 permalink: /contact
 section: contact
 intro_paragraph: |-
+  If you have any questions in mind feel free to email me your inquires.!
 
-  The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications. Each submission is passed through a spam filter and if
-  flagged, will display a CAPTCHA challenge to the user.
+  Stay inspired and we will transform your vision into a reality!
 ---
 
 **Send us a message**
