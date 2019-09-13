@@ -3,14 +3,7 @@ layout: home
 title: 'Catherine Olejarczyk '
 permalink: /
 section: home
-intro_paragraph: >-
-  # IT Innovation and Design
-
-
-
-
-  THE KEY IS TO BECOME INSPIRED AND CREATIVE WITH YOUR WORK. STAY CONNECTED TO
-  YOUR DESIGN AND PASSION FOR WHAT YOU DO
+intro_paragraph: '# IT Innovation and Design'
 ---
 ## **WHAT I DO**
 
