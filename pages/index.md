@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Catherine Olejarczyk '
+title: Welcome! My name is Catherine Olejarczyk
 permalink: /
 section: home
 intro_paragraph: '# IT Innovation and Design'
