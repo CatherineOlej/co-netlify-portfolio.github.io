@@ -4,7 +4,7 @@ title: Welcome! My name is Catherine Olejarczyk
 permalink: /
 section: home
 intro_paragraph: |-
-  ## **I** study IT Innovation and Design at Conestoga College
+  ## IT Innovation and Design
 
   ![](/assets/img/uploads/me.jpg)
 ---
