@@ -20,7 +20,7 @@ intro_paragraph: >-
   Here is a little demo of the app.
 categories: ''
 ---
-What is it?
+# **What is it?**
 
 Enigma’s Box is an “escape room” themed game where players are locked in a room. Players will be encouraged to use cooperation and their problem-solving skills to solve riddles to uncover the clues and tools needed to escape the room before the timer is up. 
 
