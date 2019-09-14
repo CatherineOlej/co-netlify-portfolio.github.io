@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Just wanted to share some work I'm very proud of...
+title: Some work I've done in the past year
 author: catherine_olejarczyk
 date: '2019-09-14 13:07:33'
 intro_paragraph: >-
