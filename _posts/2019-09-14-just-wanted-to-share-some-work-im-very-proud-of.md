@@ -4,7 +4,7 @@ title: Just wanted to share some work I'm very proud of...
 author: catherine_olejarczyk
 date: '2019-09-14 13:07:33'
 intro_paragraph: >-
-  The general purpose this this illustration was to achieves a sufficient
+  The general purpose of these illustrations was to achieves a sufficient
   mastery of skills required to develop artwork in professional tools and apply
   the skills to develop artwork that serves purposes such as better UX design,
   branding and marketing in websites, and developing images and models that can
