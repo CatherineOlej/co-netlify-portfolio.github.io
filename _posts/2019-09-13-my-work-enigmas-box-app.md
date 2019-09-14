@@ -7,7 +7,7 @@ intro_paragraph: >-
   Check out this link if you want to try this app yourself!
 
 
-  https://github.com/CatherineOlej/EnigmasBox.github.io 
+  **https://github.com/CatherineOlej/EnigmasBox.github.io** 
 
 
   (Must copy and paste) 
