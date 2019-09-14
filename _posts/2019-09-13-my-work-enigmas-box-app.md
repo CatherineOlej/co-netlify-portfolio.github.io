@@ -18,24 +18,6 @@ intro_paragraph: >-
 
 
   Here is a little demo of the app.
-
-
-  ![](/assets/img/uploads/home.png "Home page")
-
-
-  ![](/assets/img/uploads/homecontinue.png "Home page (continuation)")
-
-
-  ![](/assets/img/uploads/events.png "Events Page")
-
-
-  ![](/assets/img/uploads/reserve.png "Reservation Page")
-
-
-  ![](/assets/img/uploads/reservationstatus.png "Customers reservation")
-
-
-  ![](/assets/img/uploads/about.png "About Page")
 categories: ''
 ---
 What is it?
@@ -43,3 +25,15 @@ What is it?
 Enigma’s Box is an “escape room” themed game where players are locked in a room. Players will be encouraged to use cooperation and their problem-solving skills to solve riddles to uncover the clues and tools needed to escape the room before the timer is up. 
 
 The app is a way for players to register for games which usually are themed. Therefore, a player can register themselves and up to six people for a particular event that is of more interest to them.
+
+![](/assets/img/uploads/home.png)
+
+![](/assets/img/uploads/homecontinue.png)
+
+![](/assets/img/uploads/events.png)
+
+![](/assets/img/uploads/reserve.png)
+
+![](/assets/img/uploads/reservationstatus.png)
+
+![](/assets/img/uploads/about.png)
