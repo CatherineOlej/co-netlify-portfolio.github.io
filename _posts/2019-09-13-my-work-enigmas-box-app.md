@@ -13,9 +13,8 @@ intro_paragraph: >-
   (Must copy and paste) 
 
 
-  **Note:** When you visit the page you will then be able to click on the
-  repository, which you will then be able to download it, as it was uploaded as
-  a zip file.
+  **Note:** When you visit the page you can click on the repository, which you
+  will then be able to download, as it was uploaded as a zip file.
 
 
   Here is a little demo of the app.
