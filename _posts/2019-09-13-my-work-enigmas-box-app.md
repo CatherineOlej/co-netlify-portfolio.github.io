@@ -3,24 +3,38 @@ layout: post
 title: My Work - Enigmas Box App
 author: catherine_olejarczyk
 date: '2019-09-13 16:04:05'
-intro_paragraph: |-
+intro_paragraph: >-
   Check this link if you want to play around the app yourself. 
+
 
   https://github.com/CatherineOlej/EnigmasBox.github.io 
 
-  (Must copy and paste)
+
+  (Must copy and paste) 
+
+
+  **Note:** When you visit the page you will then be able to click on the
+  repository, which you will then be able to download it, as it was uploaded as
+  a zip file.
+
 
   Here is a little demo of the app.
 
+
   ![](/assets/img/uploads/home.png "Home page")
+
 
   ![](/assets/img/uploads/homecontinue.png "Home page (continuation)")
 
+
   ![](/assets/img/uploads/events.png "Events Page")
+
 
   ![](/assets/img/uploads/reserve.png "Reservation Page")
 
+
   ![](/assets/img/uploads/reservationstatus.png "Customers reservation")
+
 
   ![](/assets/img/uploads/about.png "About Page")
 categories: ''
