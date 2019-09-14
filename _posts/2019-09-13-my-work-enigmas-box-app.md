@@ -18,6 +18,24 @@ intro_paragraph: >-
 
 
   Here is a little demo of the app.
+
+
+  ![](/assets/img/uploads/home.png "Home page")
+
+
+  ![](/assets/img/uploads/homecontinue.png "Home page (continuation)")
+
+
+  ![](/assets/img/uploads/events.png "Events Page")
+
+
+  ![](/assets/img/uploads/reserve.png "Reservation Page")
+
+
+  ![](/assets/img/uploads/reservationstatus.png "Customers reservation")
+
+
+  ![](/assets/img/uploads/about.png "About Page")
 categories: ''
 ---
 What is it?
