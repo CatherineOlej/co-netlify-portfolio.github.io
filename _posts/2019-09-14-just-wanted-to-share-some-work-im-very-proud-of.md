@@ -9,11 +9,11 @@ intro_paragraph: >-
   the skills to develop artwork that serves purposes such as better UX design,
   branding and marketing in websites.
 ---
-![](/assets/img/uploads/4b-copy.png "Part B in VR")
-
 **The meaning behind the Illustration** 
 
 The goal here is to promote a product, along with a deeper meaning that demonstrates perspective. I used my skills in image manipulation in order to make the layout aesthetically pleasing and to support my goals. 
+
+![](/assets/img/uploads/4b-copy.png "Part B - VR headset advertisment")
 
 \*\*\*\*The product advertised in this creation is the virtual reality headset. I figured that adding a deeper meaning aside would draw more attention and curiosity; to make it more interesting. When it comes to art, _a picture is worth a thousand words -_ conveying the complex idea into a picture. Virtual reality is growing in today’s society, and this is where my attempt to demonstrate perspective comes in.
 
