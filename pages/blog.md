@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: What Motivates Me
+title: 'Motivation for the Developer '
 permalink: /blog
 section: blog
 intro_paragraph: >-
