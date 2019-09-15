@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Mark My Words
+title: What Motivates Me
 permalink: /blog
 section: blog
 intro_paragraph: >-
