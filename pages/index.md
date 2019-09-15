@@ -7,7 +7,7 @@ intro_paragraph: >-
   # IT Innovation and Design Student
 
 
-  ## Hi there! 
+  ## Hi there!
 
 
   My name is Catherine Olejarczyk. I study IT Innovation and Design at Conestoga
