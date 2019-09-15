@@ -4,7 +4,7 @@ title: Welcome! My name is Catherine Olejarczyk
 permalink: /
 section: home
 intro_paragraph: >-
-  # **IT Innovation and Design Student**
+  # IT Innovation and Design Student
 
 
   Hi there! My name is Catherine Olejarczyk. I study IT Innovation and Design at
@@ -12,6 +12,10 @@ intro_paragraph: >-
   objective in the working world is to seek employment in the field of
   Information technology where I can utilize and further develop the skills I
   have acquired as an IT Innovation and Design student.
+
+
+
+
 
 
   ![](/assets/img/uploads/me.jpg "Me")
