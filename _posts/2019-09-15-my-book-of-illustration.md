@@ -6,11 +6,11 @@ date: '2019-09-15 15:59:39'
 intro_paragraph: The book is about self-reflection and motivation through the use of quotes.
 categories: Photoshop
 ---
-## What is it about?
+**What is it about?**
 
 The images help describe the quotes literally, but have a meaning behind it. The style that keeps each illustration connected is the spirit animal, which is a hawk. The hawk teaches awareness. A way to see the bigger picture. I felt that the symbolic meaning of the hawk was an appropriate choice considering that “perspective” is important in art.
 
-## How my techniques support the concept
+**How my techniques support the concept**
 
 * The orange glow represents the spirit illusion 
 * The actual color represents encouragement, change, determination and expression
