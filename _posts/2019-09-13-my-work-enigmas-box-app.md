@@ -35,5 +35,3 @@ The app is a way for players to register for games which usually are themed. The
 ![](/assets/img/uploads/reserve.png)
 
 ![](/assets/img/uploads/reservationstatus.png)
-
-![](/assets/img/uploads/about.png)
