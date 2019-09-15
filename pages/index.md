@@ -1,15 +1,15 @@
 ---
 layout: home
-title: My name is Catherine Olejarczyk
+title: IT Innovation and Design Student
 permalink: /
 section: home
 intro_paragraph: >-
-  ## Hi there!
+  ## Hello! My name is Catherine Olejarczyk
 
 
-  I study **IT Innovation and Design** at Conestoga College in Waterloo. I am in
-  my third and final year of college. My objective in the working world is to
-  seek employment in the field of Information technology where I can utilize and
+  I study IT Innovation and Design at Conestoga College in Waterloo. I am in my
+  third and final year of college. My objective in the working world is to seek
+  employment in the field of Information technology where I can utilize and
   further develop the skills I have acquired as an IT Innovation and Design
   student.
 
