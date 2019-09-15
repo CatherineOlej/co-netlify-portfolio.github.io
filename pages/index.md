@@ -6,7 +6,7 @@ section: home
 intro_paragraph: |-
   ## IT Innovation and Design
 
-  ![](/assets/img/uploads/me.jpg)
+  ![](/assets/img/uploads/me.jpg "Me")
 ---
 # **WHAT I DO**
 
