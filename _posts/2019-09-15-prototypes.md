@@ -9,7 +9,7 @@ intro_paragraph: >-
   be most appealing and interesting to my viewers.
 categories: 'Photoshop '
 ---
-# H.I.V.E
+# **H.I.V.E**
 
 The product the artwork intends to promote is artificial intelligence in a virtual reality type of world. The purpose of this is to combine human knowledge and computerized data to work together in a virtual reality, so it does not completely take over human labor. Virtual reality is rising in the world and applying artificial intelligence will become the next possible innovation in the virtual world.  This is why we perceive it more as a virtual intelligence. 
 
@@ -29,7 +29,7 @@ In the header, the “register tab” will allow users to create an account to h
 
 HIVE stands for Highly Intelligent Virtual Enterprise. This introduces artificial intelligence into the virtual world as the innovative hybrid, which combines both human and computerized brilliance into bringing a balance to the future. This means that people will still have the opportunity to work and not completely be taken over by machines.
 
-# **The Brush Effect** 
+# **The Brush Effect**
 
 ![](/assets/img/uploads/brusheffectwallpaper-recovered.jpg "Lancer gts wallpaper made with brush effect")
 
