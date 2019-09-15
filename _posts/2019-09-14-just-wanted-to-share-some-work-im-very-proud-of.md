@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some work I've done in the past year
+title: Graphic Techniques for Illustration
 author: catherine_olejarczyk
 date: '2019-09-14 13:07:33'
 intro_paragraph: >-
@@ -9,7 +9,7 @@ intro_paragraph: >-
   the skills to develop artwork that serves purposes such as better UX design,
   branding and marketing in websites.
 ---
-# **The meaning behind the Illustration** 
+# **The meaning behind the Illustration**
 
 The goal here is to promote a product, along with a deeper meaning that demonstrates perspective. I used my skills in image manipulation in order to make the layout aesthetically pleasing and to support my goals. 
 
