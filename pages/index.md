@@ -14,10 +14,6 @@ intro_paragraph: >-
   have acquired as an IT Innovation and Design student.
 
 
-
-
-
-
   ![](/assets/img/uploads/me.jpg "Me")
 ---
 # **WHAT I DO**
