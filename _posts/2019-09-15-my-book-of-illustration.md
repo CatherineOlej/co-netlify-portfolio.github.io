@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Book of Illustration '
+title: My Book of Illustrations
 author: catherine_olejarczyk
 date: '2019-09-15 15:59:39'
 intro_paragraph: "The book is about self-reflection and motivation through the use of quotes\r."
