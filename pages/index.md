@@ -4,7 +4,7 @@ title: Welcome! My name is Catherine Olejarczyk
 permalink: /
 section: home
 intro_paragraph: |-
-  ## IT Innovation and Design
+  # IT Innovation and Design
 
   ![](/assets/img/uploads/me.jpg "Me")
 ---
