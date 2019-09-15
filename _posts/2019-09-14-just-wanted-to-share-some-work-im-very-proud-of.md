@@ -13,9 +13,9 @@ intro_paragraph: >-
 
 The goal here is to promote a product, along with a deeper meaning that demonstrates perspective. I used my skills in image manipulation in order to make the layout aesthetically pleasing and to support my goals. 
 
-![](/assets/img/uploads/4b-copy.png "Part B - VR headset advertisment")
+![](/assets/img/uploads/4b.png "Part B - VR headset advertisment")
 
-\*\*\*\*The product advertised in this creation is the virtual reality headset. I figured that adding a deeper meaning aside would draw more attention and curiosity; to make it more interesting. When it comes to art, _a picture is worth a thousand words -_ conveying the complex idea into a picture. Virtual reality is growing in today’s society, and this is where my attempt to demonstrate perspective comes in.
+The product advertised in this creation is the virtual reality headset. I figured that adding a deeper meaning aside would draw more attention and curiosity; to make it more interesting. When it comes to art, _a picture is worth a thousand words -_ conveying the complex idea into a picture. Virtual reality is growing in today’s society, and this is where my attempt to demonstrate perspective comes in.
 
  A very common question we tend to be unclear of answering is, “How do we see our future?” In deep thought, we paint a picture of it. I found that this idea could define perspective on how we view the future. The dry brush effect applied to the image of the earth behind the VR headset background represents our world. That effect makes the image somewhat blurry, which correlates to our future, unclear. Virtual reality is set in a fantasy world, but what happens if it becomes a reality? The text in the portrait, “Can you see it now?” questions those looking through the headset, if they can see their future world inside that virtual one. Ours may be unclear, since we will encounter many obstacles. However, could this one take a toll towards a possibility of seeing it clearer? In the essence to support this theory, the images play an important role with a significant meaning to each. 
 
