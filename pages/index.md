@@ -4,7 +4,7 @@ title: IT Innovation and Design Student
 permalink: /
 section: home
 intro_paragraph: >-
-  ## Hello! My name is Catherine Olejarczyk
+  # Hello! My name is Catherine Olejarczyk
 
 
   I study IT Innovation and Design at Conestoga College in Waterloo. I am in my
