@@ -10,7 +10,7 @@ intro_paragraph: >-
   In the year 2020, I graduated from IT Innovation and Design at Conestoga College in Waterloo. My objective in the working world is to seek employment in the field of Information technology where I can utilize and further develop the skills I have acquired as an IT Innovation and Design student. My main ambition is to enhance my skills as a front-end developer because I enjoy being creative and learning new techniques in developing client-side designs. 
 
 
-  ![](/assets/img/uploads/morskie-oko-2-.jpg "Me")
+  ![](/assets/img/uploads/morskie-oko-20.1.jpg "Me")
 ---
 # **WHAT I DO**
 
