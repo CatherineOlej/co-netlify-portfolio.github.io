@@ -18,7 +18,7 @@ I create dynamic websites and applications using a variation of programming lang
 
 # MY SKILLS AS A DEVELOPER
 
-My knowledge and skills in designing websites, databases and applications are developed through the practice of SQL, C#, HTML5, CSS3, JavaScript, Jquery, Java, and Bootstrap from scratch. My designing skills have also evolved from working with editor software tools, such as Photoshop and Adobe Illustrator. These tools allow me to express myself as a developer, in the sense that I can use my imagination when construing wire-frames and prototypes for given projects.  
+My knowledge and skills in designing websites, databases and applications are developed through the practice of SQL, C#, HTML5, CSS3, JavaScript, Jquery, Java, and Bootstrap from scratch. My designing skills have also evolved from working with editor software tools, such as Photoshop and Adobe Illustrator. These tools allow me to express myself as a developer, in the sense that I can use my imagination when constructing wire-frames and prototypes for given projects.  
 
 Having class experience by working with the agile methodology allows myself and other developers to not only interact with peers about ongoing projects, but utilizing given feedback from stakeholders in order to improve the overall quality of software. The agile development saves time and effort, as well as ensuring optimal use of resources.  
 
