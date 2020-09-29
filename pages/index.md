@@ -1,20 +1,16 @@
 ---
 layout: home
-title: IT Innovation and Design Student
+title: Aspiring Front-end designer and developer
 permalink: /
 section: home
 intro_paragraph: >-
   # Hello! My name is Catherine Olejarczyk
 
 
-  I study IT Innovation and Design at Conestoga College in Waterloo. I am in my
-  third and final year of college. My objective in the working world is to seek
-  employment in the field of Information technology where I can utilize and
-  further develop the skills I have acquired as an IT Innovation and Design
-  student.
+  In the year 2020, I graduated from IT Innovation and Design at Conestoga College in Waterloo. My objective in the working world is to seek employment in the field of Information technology where I can utilize and further develop the skills I have acquired as an IT Innovation and Design student. My main ambition is to 
 
 
-  ![](/assets/img/uploads/me.jpg "Me")
+  ![](/assets/img/uploads/morskie-oko-2-.jpg "Me")
 ---
 # **WHAT I DO**
 
